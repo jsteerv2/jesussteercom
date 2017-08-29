@@ -1,0 +1,17 @@
+.toolbar-title {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+}
+
+.toolbar-title-text {
+    margin: 0 0 0 10px !important;
+    color: #fff !important;
+}
+
+.toolbar-avatar {
+    margin-left: 10px;
+    max-height: 94%;
+    max-width: 94%;
+}
