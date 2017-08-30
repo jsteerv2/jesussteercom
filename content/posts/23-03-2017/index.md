@@ -1,6 +1,6 @@
 ---
 title: "Porque me cambie a python"
-cover: "/posts/Porque\ Python.png"
+cover: "/posts/Porque-Python.png"
 date: "01/03/2017"
 category: "tech"
 tags:
